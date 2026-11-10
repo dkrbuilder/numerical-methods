@@ -1,9 +1,5 @@
 # Numerical Methods
 
-Educational implementations of numerical algorithms in Python, prepared as part of my Applied Mathematics and Informatics studies at NRU MPEI.
-
-The repository focuses on implementing algorithms directly, validating them against analytical or reference solutions, and studying numerical error and computational complexity.
-
 ## Projects
 
 | Project | Methods | Technologies |
